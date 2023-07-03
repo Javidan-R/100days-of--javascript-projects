@@ -1,7 +1,7 @@
 # 100days-of--javascript-projects
 For 100 days, I will continuously work on myself and write javascript projects from simple to complex
 100 Days of JavaScript Projects
-Description
+
 
 This repository contains a collection of JavaScript projects completed as part of the "100 Days of Code" challenge. Each project focuses on different aspects of JavaScript and web development, providing opportunities to practice and improve coding skills.
 Table of Contents
