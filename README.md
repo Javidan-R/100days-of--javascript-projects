@@ -28,10 +28,13 @@ Project List
 
 Here is a list of the projects included in this repository:
 
+<<<<<<< HEAD
     Project 1: Description of the project.
     Project 2: Description of the project.
     Project 3: Description of the project.
     ...
+=======
+>>>>>>> ef44743a2aa2ce8384770cb875fef1e452827768
 
 Please refer to each project's individual README for more details on the specific requirements and implementation.
 Usage
@@ -49,4 +52,8 @@ Contributing
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request following the project's guidelines.
 License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code for personal and commercial purposes.
+=======
+This project is licensed under the MIT License. You are free to use, modify, and distribute this code for personal and commercial purposes.
+>>>>>>> ef44743a2aa2ce8384770cb875fef1e452827768
